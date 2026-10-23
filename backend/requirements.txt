@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn
+python-multipart
+Pillow
+torch
+torchvision
+mysql-connector-python
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
+pytest
