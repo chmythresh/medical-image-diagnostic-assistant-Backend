@@ -1,0 +1,18 @@
+{
+  "model": "ResNet18 fine-tuned layer4 and classifier",
+  "test_images": 100,
+  "accuracy": 0.85,
+  "precision_macro": 0.8666666666666667,
+  "recall_macro": 0.852140856342537,
+  "f1_macro": 0.8487750781328763,
+  "confusion_matrix": [
+    [
+      47,
+      2
+    ],
+    [
+      13,
+      38
+    ]
+  ]
+}

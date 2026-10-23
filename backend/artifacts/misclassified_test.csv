@@ -1,0 +1,17 @@
+image,true_label,true_class,predicted_label,predicted_class,confidence,correct
+CHNCXR_0415_1.png,1,abnormal,0,normal,0.50710129737854,False
+CHNCXR_0599_1.png,1,abnormal,0,normal,0.5177337527275085,False
+CHNCXR_0565_1.png,1,abnormal,0,normal,0.5112394690513611,False
+CHNCXR_0632_1.png,1,abnormal,0,normal,0.5184147357940674,False
+CHNCXR_0496_1.png,1,abnormal,0,normal,0.5414146780967712,False
+CHNCXR_0348_1.png,1,abnormal,0,normal,0.5194999575614929,False
+CHNCXR_0384_1.png,1,abnormal,0,normal,0.5219239592552185,False
+CHNCXR_0201_0.png,0,normal,1,abnormal,0.5342776775360107,False
+CHNCXR_0446_1.png,1,abnormal,0,normal,0.5487342476844788,False
+CHNCXR_0092_0.png,0,normal,1,abnormal,0.5132736563682556,False
+CHNCXR_0644_1.png,1,abnormal,0,normal,0.5392774343490601,False
+CHNCXR_0626_1.png,1,abnormal,0,normal,0.5214616060256958,False
+CHNCXR_0440_1.png,1,abnormal,0,normal,0.5276975631713867,False
+CHNCXR_0131_0.png,0,normal,1,abnormal,0.5365819931030273,False
+CHNCXR_0521_1.png,1,abnormal,0,normal,0.5098134279251099,False
+CHNCXR_0453_1.png,1,abnormal,0,normal,0.5015224814414978,False

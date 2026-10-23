@@ -1,0 +1,663 @@
+image,csv_label,expected_label_from_suffix,label_matches_suffix,image_exists,reading_exists,clinical_reading
+CHNCXR_0001_0.png,0,0,True,True,True,male 45yrs | normal
+CHNCXR_0002_0.png,0,0,True,True,True,male 63yrs | normal
+CHNCXR_0003_0.png,0,0,True,True,True,female 48yrs | normal
+CHNCXR_0004_0.png,0,0,True,True,True,male 58yrs  | normal
+CHNCXR_0005_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0006_0.png,0,0,True,True,True,male 60yrs | normal
+CHNCXR_0007_0.png,0,0,True,True,True,female 53yrs | normal
+CHNCXR_0008_0.png,0,0,True,True,True,male 48yrs | normal
+CHNCXR_0009_0.png,0,0,True,True,True,female 71yrs | normal
+CHNCXR_0010_0.png,0,0,True,True,True,female 59yrs | normal
+CHNCXR_0011_0.png,0,0,True,True,True,male 43yrs | normal
+CHNCXR_0012_0.png,0,0,True,True,True,male 39yrs | normal
+CHNCXR_0013_0.png,0,0,True,True,True,male 41yrs | normal
+CHNCXR_0014_0.png,0,0,True,True,True,male 39yrs | normal
+CHNCXR_0015_0.png,0,0,True,True,True,female 28yrs | normal
+CHNCXR_0016_0.png,0,0,True,True,True,female 57yrs | normal
+CHNCXR_0017_0.png,0,0,True,True,True,male 35yrs | normal
+CHNCXR_0018_0.png,0,0,True,True,True,male 42 | normal
+CHNCXR_0019_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0020_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0021_0.png,0,0,True,True,True,female 38yrs | normal
+CHNCXR_0022_0.png,0,0,True,True,True,male 56yrs | normal
+CHNCXR_0023_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0024_0.png,0,0,True,True,True,male 22yrs | normal
+CHNCXR_0025_0.png,0,0,True,True,True,male 29yrs | normal
+CHNCXR_0026_0.png,0,0,True,True,True,male 29yrs | normal
+CHNCXR_0027_0.png,0,0,True,True,True,female 57yrs | normal
+CHNCXR_0028_0.png,0,0,True,True,True,male 39yrs | normal
+CHNCXR_0029_0.png,0,0,True,True,True,male 43yrs | normal
+CHNCXR_0030_0.png,0,0,True,True,True,Female 38yrs | normal
+CHNCXR_0031_0.png,0,0,True,True,True,female 27yrs | normal
+CHNCXR_0032_0.png,0,0,True,True,True,female 53yrs | normal
+CHNCXR_0033_0.png,0,0,True,True,True,male 34yrs | normal
+CHNCXR_0034_0.png,0,0,True,True,True,female 60yrs | normal
+CHNCXR_0035_0.png,0,0,True,True,True,female 59yrs | normal
+CHNCXR_0036_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0037_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0038_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0039_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0040_0.png,0,0,True,True,True,female 55yrs | normal
+CHNCXR_0041_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0042_0.png,0,0,True,True,True,male 58yrs | normal
+CHNCXR_0043_0.png,0,0,True,True,True,male 38yrs | normal
+CHNCXR_0044_0.png,0,0,True,True,True,femal 32yrs | normal
+CHNCXR_0045_0.png,0,0,True,True,True,femal 60yrs |  | normal
+CHNCXR_0046_0.png,0,0,True,True,True,male 44yrs |  | normal
+CHNCXR_0047_0.png,0,0,True,True,True,male 34yrs |  | normal
+CHNCXR_0048_0.png,0,0,True,True,True,male 23yrs |  | normal
+CHNCXR_0049_0.png,0,0,True,True,True,female 35yrs |  | normal
+CHNCXR_0050_0.png,0,0,True,True,True,female 38yrs |  | normal
+CHNCXR_0051_0.png,0,0,True,True,True,female 63yrs |  | normal
+CHNCXR_0052_0.png,0,0,True,True,True,female 35yrs |  | normal
+CHNCXR_0053_0.png,0,0,True,True,True,male 52yrs |  | normal
+CHNCXR_0054_0.png,0,0,True,True,True,female 25yrs |  | normal
+CHNCXR_0055_0.png,0,0,True,True,True,male 41yrs |  | normal
+CHNCXR_0056_0.png,0,0,True,True,True,male 48yrs |  | normal
+CHNCXR_0057_0.png,0,0,True,True,True,female 54yrs |  | normal
+CHNCXR_0058_0.png,0,0,True,True,True,female 56yrs |  | normal
+CHNCXR_0059_0.png,0,0,True,True,True,male 68yrs  |  | normale
+CHNCXR_0060_0.png,0,0,True,True,True,female 33yrs |  | normal
+CHNCXR_0061_0.png,0,0,True,True,True,male 23yrs |  | normal
+CHNCXR_0062_0.png,0,0,True,True,True,female 28yrs |  | normal
+CHNCXR_0063_0.png,0,0,True,True,True,female 29yrs |  | normal
+CHNCXR_0064_0.png,0,0,True,True,True,male 36yrs |  | normal
+CHNCXR_0065_0.png,0,0,True,True,True,female 22yrs |  | normal
+CHNCXR_0066_0.png,0,0,True,True,True,male 36yrs |  | normal
+CHNCXR_0067_0.png,0,0,True,True,True,male 32yrs |  | normal
+CHNCXR_0068_0.png,0,0,True,True,True,male 31yrs |  | normal
+CHNCXR_0069_0.png,0,0,True,True,True,female 46yrs |  | normal
+CHNCXR_0070_0.png,0,0,True,True,True,female 20yrs |  | normal
+CHNCXR_0071_0.png,0,0,True,True,True,female 39yrs |  | normal
+CHNCXR_0072_0.png,0,0,True,True,True,male 25yrs |  | normal
+CHNCXR_0073_0.png,0,0,True,True,True,female 34yrs |  | normal
+CHNCXR_0074_0.png,0,0,True,True,True,male 3yrs |  | normal
+CHNCXR_0075_0.png,0,0,True,True,True,female 1 yrs |  | normal
+CHNCXR_0076_0.png,0,0,True,True,True,male 1yrs |  | normal
+CHNCXR_0077_0.png,0,0,True,True,True,male 28yrs |  | normal
+CHNCXR_0078_0.png,0,0,True,True,True,male 31yrs |  | normal
+CHNCXR_0079_0.png,0,0,True,True,True,male 30yrs |  | normal
+CHNCXR_0080_0.png,0,0,True,True,True,male 39yrs |  | normal
+CHNCXR_0081_0.png,0,0,True,True,True,male 37yrs |  | normal
+CHNCXR_0082_0.png,0,0,True,True,True,male 45yrs |  | normal
+CHNCXR_0083_0.png,0,0,True,True,True,male 37yrs |  | normal
+CHNCXR_0084_0.png,0,0,True,True,True,female 27yrs |  | normal
+CHNCXR_0085_0.png,0,0,True,True,True,male 42yrs |  | normal
+CHNCXR_0086_0.png,0,0,True,True,True,female 53yrs |  | normal
+CHNCXR_0087_0.png,0,0,True,True,True,male 28yrs |  | normal
+CHNCXR_0088_0.png,0,0,True,True,True,male 30yrs |  | normal
+CHNCXR_0089_0.png,0,0,True,True,True,male 39yrs |  | normal
+CHNCXR_0090_0.png,0,0,True,True,True,male 39yrs |  | normal
+CHNCXR_0091_0.png,0,0,True,True,True,male 37yrs |  | normal
+CHNCXR_0092_0.png,0,0,True,True,True,male 37yrs |  | normal
+CHNCXR_0093_0.png,0,0,True,True,True,male 27yrs |  | normal
+CHNCXR_0094_0.png,0,0,True,True,True,female 24yrs | normal
+CHNCXR_0095_0.png,0,0,True,True,True,male 18yrs | normal
+CHNCXR_0096_0.png,0,0,True,True,True,femal 69yrs | normal
+CHNCXR_0097_0.png,0,0,True,True,True,female 30yrs | normal
+CHNCXR_0098_0.png,0,0,True,True,True,male 54yrs | normal
+CHNCXR_0099_0.png,0,0,True,True,True,female 26yrs | normal
+CHNCXR_0100_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0101_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0102_0.png,0,0,True,True,True,female 25yrs | normal
+CHNCXR_0103_0.png,0,0,True,True,True,female 25yrs | normal
+CHNCXR_0104_0.png,0,0,True,True,True,male 43yrs | normal
+CHNCXR_0105_0.png,0,0,True,True,True,male 22yrs | normal
+CHNCXR_0106_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0107_0.png,0,0,True,True,True,female 36yrs | normal
+CHNCXR_0108_0.png,0,0,True,True,True,male 22yrs | normal
+CHNCXR_0109_0.png,0,0,True,True,True,female 21yrs | normal
+CHNCXR_0110_0.png,0,0,True,True,True,male 42yrs | normal
+CHNCXR_0111_0.png,0,0,True,True,True,male 44yrs | normal
+CHNCXR_0112_0.png,0,0,True,True,True,male 33yrs  | normal
+CHNCXR_0113_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0114_0.png,0,0,True,True,True,male 20yrs | normal
+CHNCXR_0115_0.png,0,0,True,True,True,male 16month | normal
+CHNCXR_0116_0.png,0,0,True,True,True,male 49yrs | normal
+CHNCXR_0117_0.png,0,0,True,True,True,male 48yrs | normal
+CHNCXR_0118_0.png,0,0,True,True,True,female 26yrs | normal
+CHNCXR_0119_0.png,0,0,True,True,True,male 20yrs | normal
+CHNCXR_0120_0.png,0,0,True,True,True,male 19yrs | normal
+CHNCXR_0121_0.png,0,0,True,True,True,male 21yrs | normal
+CHNCXR_0122_0.png,0,0,True,True,True,female 20yrs | normal
+CHNCXR_0123_0.png,0,0,True,True,True,female 64yrs | normal
+CHNCXR_0124_0.png,0,0,True,True,True,male 34yrs | normal
+CHNCXR_0125_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0126_0.png,0,0,True,True,True,female 65yrs | normal
+CHNCXR_0127_0.png,0,0,True,True,True,female 24yrs | normal
+CHNCXR_0128_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0129_0.png,0,0,True,True,True,female 43yrs | normal
+CHNCXR_0130_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0131_0.png,0,0,True,True,True,male 19yrs | normal
+CHNCXR_0132_0.png,0,0,True,True,True,female 50yrs | normal
+CHNCXR_0133_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0134_0.png,0,0,True,True,True,male 29yrs  | normal
+CHNCXR_0135_0.png,0,0,True,True,True,male 20yrs | normal
+CHNCXR_0136_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0137_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0138_0.png,0,0,True,True,True,female  30yrs | normal
+CHNCXR_0139_0.png,0,0,True,True,True,female  27yrs | normal
+CHNCXR_0140_0.png,0,0,True,True,True,female  39yrs | normal
+CHNCXR_0141_0.png,0,0,True,True,True,female 36yrs | normal
+CHNCXR_0142_0.png,0,0,True,True,True,male 22yrs | normal
+CHNCXR_0143_0.png,0,0,True,True,True,female 47yrs | normal
+CHNCXR_0144_0.png,0,0,True,True,True,male 31yrs | normal
+CHNCXR_0145_0.png,0,0,True,True,True,male 45yrs | normal
+CHNCXR_0146_0.png,0,0,True,True,True,male  22yrs | normal
+CHNCXR_0147_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0148_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0149_0.png,0,0,True,True,True,male 31yrs  | normal
+CHNCXR_0150_0.png,0,0,True,True,True,male 45yrs | normal
+CHNCXR_0151_0.png,0,0,True,True,True,female 25yrs  | normal
+CHNCXR_0152_0.png,0,0,True,True,True,female 24yrs | normal
+CHNCXR_0153_0.png,0,0,True,True,True,female 37yrs | normal
+CHNCXR_0154_0.png,0,0,True,True,True,male 31yrs | normal
+CHNCXR_0155_0.png,0,0,True,True,True,male 5yrs  | normal
+CHNCXR_0156_0.png,0,0,True,True,True,female  38yrs | normal
+CHNCXR_0157_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0158_0.png,0,0,True,True,True,female 36yrs | normal
+CHNCXR_0159_0.png,0,0,True,True,True,male 22yrs  | normal
+CHNCXR_0160_0.png,0,0,True,True,True,female 23yrs | normal
+CHNCXR_0161_0.png,0,0,True,True,True,female 48yrs | normal
+CHNCXR_0162_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0163_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0164_0.png,0,0,True,True,True,male 53yrs | normal
+CHNCXR_0165_0.png,0,0,True,True,True,male 39yrs | normal
+CHNCXR_0166_0.png,0,0,True,True,True,female 31yrs | normal
+CHNCXR_0167_0.png,0,0,True,True,True,male 47yrs | normal
+CHNCXR_0168_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0169_0.png,0,0,True,True,True,male 2yrs | normal
+CHNCXR_0170_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0171_0.png,0,0,True,True,True,male 19yrs | normal
+CHNCXR_0172_0.png,0,0,True,True,True,female 26yrs | normal
+CHNCXR_0173_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0174_0.png,0,0,True,True,True,male 68yrs | normal
+CHNCXR_0175_0.png,0,0,True,True,True,female 70yrs | normal
+CHNCXR_0176_0.png,0,0,True,True,True,female 64yrs | normal
+CHNCXR_0177_0.png,0,0,True,True,True,male 19yrs | normal
+CHNCXR_0178_0.png,0,0,True,True,True,male 1yrs | normal
+CHNCXR_0179_0.png,0,0,True,True,True,male 22yrs | normal
+CHNCXR_0180_0.png,0,0,True,True,True,female 36yrs | normal
+CHNCXR_0181_0.png,0,0,True,True,True,female 43yrs | normal
+CHNCXR_0182_0.png,0,0,True,True,True,male 37yrs | normal
+CHNCXR_0183_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0184_0.png,0,0,True,True,True,female 33yrs | normal
+CHNCXR_0185_0.png,0,0,True,True,True,male 44yrs | normal
+CHNCXR_0186_0.png,0,0,True,True,True,male 44yrs | normal
+CHNCXR_0187_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0188_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0189_0.png,0,0,True,True,True,male 27yrs  | normal
+CHNCXR_0190_0.png,0,0,True,True,True,male 34yrs | normal
+CHNCXR_0191_0.png,0,0,True,True,True,male 33yrs | normal
+CHNCXR_0192_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0193_0.png,0,0,True,True,True,female 24yrs | normal
+CHNCXR_0194_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0195_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0196_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0197_0.png,0,0,True,True,True,male 36yrs | normal
+CHNCXR_0198_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0199_0.png,0,0,True,True,True,female 26yrs | normal
+CHNCXR_0200_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0201_0.png,0,0,True,True,True,male 16month | normal
+CHNCXR_0202_0.png,0,0,True,True,True,female 64days | normal
+CHNCXR_0203_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0204_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0205_0.png,0,0,True,True,True,male 1yr | normal
+CHNCXR_0206_0.png,0,0,True,True,True,male 3yrs | normal
+CHNCXR_0207_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0208_0.png,0,0,True,True,True,female 30yrs | normal
+CHNCXR_0209_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0210_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0211_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0212_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0213_0.png,0,0,True,True,True,male 43yrs | normal
+CHNCXR_0214_0.png,0,0,True,True,True,male 31yrs | normal
+CHNCXR_0215_0.png,0,0,True,True,True,male 4yrs | normal
+CHNCXR_0216_0.png,0,0,True,True,True,male 40yrs | normal
+CHNCXR_0217_0.png,0,0,True,True,True,female 28yrs | normal
+CHNCXR_0218_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0219_0.png,0,0,True,True,True,male 33yrs | normal
+CHNCXR_0220_0.png,0,0,True,True,True,male 45yrs | normal
+CHNCXR_0221_0.png,0,0,True,True,True,male 29yrs | normal
+CHNCXR_0222_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0223_0.png,0,0,True,True,True,male 20yrs | normal
+CHNCXR_0224_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0225_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0226_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0227_0.png,0,0,True,True,True,male 50yrs | normal
+CHNCXR_0228_0.png,0,0,True,True,True,male 1yr | normal
+CHNCXR_0229_0.png,0,0,True,True,True,female 40yrs | normal
+CHNCXR_0230_0.png,0,0,True,True,True,male 44yrs | normal
+CHNCXR_0231_0.png,0,0,True,True,True,male 33yrs | normal
+CHNCXR_0232_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0233_0.png,0,0,True,True,True,male 41yrs | normal
+CHNCXR_0234_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0235_0.png,0,0,True,True,True,female 31yrs | normal
+CHNCXR_0236_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0237_0.png,0,0,True,True,True,male 34yrs | normal
+CHNCXR_0238_0.png,0,0,True,True,True,male 42yrs | normal
+CHNCXR_0239_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0240_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0241_0.png,0,0,True,True,True,female 34yrs | normal
+CHNCXR_0242_0.png,0,0,True,True,True,female 33yrs | normal
+CHNCXR_0243_0.png,0,0,True,True,True,male 27yrs | normal
+CHNCXR_0244_0.png,0,0,True,True,True,female 26yrs | normal
+CHNCXR_0245_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0246_0.png,0,0,True,True,True,male 35yrs | normal
+CHNCXR_0247_0.png,0,0,True,True,True,female 39yrs | normal
+CHNCXR_0248_0.png,0,0,True,True,True,female 2yrs | normal
+CHNCXR_0249_0.png,0,0,True,True,True,male 31yrs | normal
+CHNCXR_0250_0.png,0,0,True,True,True,male 35yrs | normal
+CHNCXR_0251_0.png,0,0,True,True,True,male 52yrs | normal
+CHNCXR_0252_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0253_0.png,0,0,True,True,True,male 85yrs | normal
+CHNCXR_0254_0.png,0,0,True,True,True,male 53yrs | normal
+CHNCXR_0255_0.png,0,0,True,True,True,male 33yrs | normal
+CHNCXR_0256_0.png,0,0,True,True,True,female 5yrs | normal
+CHNCXR_0257_0.png,0,0,True,True,True,male 42yrs | normal
+CHNCXR_0258_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0259_0.png,0,0,True,True,True,male 7yrs | normal
+CHNCXR_0260_0.png,0,0,True,True,True,female 46yrs | normal
+CHNCXR_0261_0.png,0,0,True,True,True,female 25yrs | normal
+CHNCXR_0262_0.png,0,0,True,True,True,male 36yrs | normal
+CHNCXR_0263_0.png,0,0,True,True,True,female24yrs | normal
+CHNCXR_0264_0.png,0,0,True,True,True,female 27yrs | normal
+CHNCXR_0265_0.png,0,0,True,True,True,female 6yrs | normal
+CHNCXR_0266_0.png,0,0,True,True,True,male 23yrs | normal
+CHNCXR_0267_0.png,0,0,True,True,True,female 53yrs | normal
+CHNCXR_0268_0.png,0,0,True,True,True,male 33yrs | normal
+CHNCXR_0269_0.png,0,0,True,True,True,male 31yrs | normal
+CHNCXR_0270_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0271_0.png,0,0,True,True,True,male 26yrs | normal
+CHNCXR_0272_0.png,0,0,True,True,True,female 62yrs | normal
+CHNCXR_0273_0.png,0,0,True,True,True,male 8yrs | normal
+CHNCXR_0274_0.png,0,0,True,True,True,female 64yrs | normal
+CHNCXR_0275_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0276_0.png,0,0,True,True,True,male 48yrs | normal
+CHNCXR_0277_0.png,0,0,True,True,True,male 47yrs | normal
+CHNCXR_0278_0.png,0,0,True,True,True,male 14yrs | normal
+CHNCXR_0279_0.png,0,0,True,True,True,male 35yrs | normal
+CHNCXR_0280_0.png,0,0,True,True,True,male 29yrs | normal
+CHNCXR_0281_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0282_0.png,0,0,True,True,True,male 46yrs | normal
+CHNCXR_0283_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0284_0.png,0,0,True,True,True,male 59yrs | normal
+CHNCXR_0285_0.png,0,0,True,True,True,male 35yrs | normal
+CHNCXR_0286_0.png,0,0,True,True,True,male 64yrs | normal
+CHNCXR_0287_0.png,0,0,True,True,True,female 35yrs | normal
+CHNCXR_0288_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0289_0.png,0,0,True,True,True,female 21yrs | normal
+CHNCXR_0290_0.png,0,0,True,True,True,male 42yrs | normal
+CHNCXR_0291_0.png,0,0,True,True,True,female 37yrs | normal
+CHNCXR_0292_0.png,0,0,True,True,True,female 28yrs | normal
+CHNCXR_0293_0.png,0,0,True,True,True,male 36yrs | normal
+CHNCXR_0294_0.png,0,0,True,True,True,female 30yrs | normal
+CHNCXR_0295_0.png,0,0,True,True,True,female 52yrs | normal
+CHNCXR_0296_0.png,0,0,True,True,True,female 39yrs | normal
+CHNCXR_0297_0.png,0,0,True,True,True,male 1yr | normal
+CHNCXR_0298_0.png,0,0,True,True,True,male 37yrs | normal
+CHNCXR_0299_0.png,0,0,True,True,True,female 5yrs | normal
+CHNCXR_0300_0.png,0,0,True,True,True,male 36yrs | normal
+CHNCXR_0301_0.png,0,0,True,True,True,female 42yrs | normal
+CHNCXR_0302_0.png,0,0,True,True,True,female 28yrs | normal
+CHNCXR_0303_0.png,0,0,True,True,True,male 3yrs | normal
+CHNCXR_0304_0.png,0,0,True,True,True,male 19yrs | normal
+CHNCXR_0305_0.png,0,0,True,True,True,male 24yrs | normal
+CHNCXR_0306_0.png,0,0,True,True,True,male 17yrs | normal
+CHNCXR_0307_0.png,0,0,True,True,True,female 38yrs | normal
+CHNCXR_0308_0.png,0,0,True,True,True,male 32yrs | normal
+CHNCXR_0309_0.png,0,0,True,True,True,female 27yrs | normal
+CHNCXR_0310_0.png,0,0,True,True,True,female 36yrs | normal
+CHNCXR_0311_0.png,0,0,True,True,True,male 39yr | normal
+CHNCXR_0312_0.png,0,0,True,True,True,female 47yrs | normal
+CHNCXR_0313_0.png,0,0,True,True,True,male 6yrs | normal
+CHNCXR_0314_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0315_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0316_0.png,0,0,True,True,True,female 43yrs | normal
+CHNCXR_0317_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0318_0.png,0,0,True,True,True,male 25yrs | normal
+CHNCXR_0319_0.png,0,0,True,True,True,female 50yrs | normal
+CHNCXR_0320_0.png,0,0,True,True,True,male 38yrs | normal
+CHNCXR_0321_0.png,0,0,True,True,True,male 30yrs | normal
+CHNCXR_0322_0.png,0,0,True,True,True,male 38yrs | normal
+CHNCXR_0323_0.png,0,0,True,True,True,male 28yrs | normal
+CHNCXR_0324_0.png,0,0,True,True,True,male 32 yrs | normal
+CHNCXR_0325_0.png,0,0,True,True,True,male 39yrs | normal
+CHNCXR_0326_0.png,0,0,True,True,True,male 38yrs |  normal
+CHNCXR_0327_1.png,1,1,True,True,True,male 28yrs | STB
+CHNCXR_0328_1.png,1,1,True,True,True,female 40yrs | STB | NATB
+CHNCXR_0329_1.png,1,1,True,True,True,female 40yrs | TB
+CHNCXR_0330_1.png,1,1,True,True,True,male 32yrs | STB | ATB | tuberculosis pleuritis
+CHNCXR_0331_1.png,1,1,True,True,True,female 36yrs | STB | NATB | Tuberculosis pleuritis
+CHNCXR_0332_1.png,1,1,True,True,True,male 58yrs | STB
+CHNCXR_0333_1.png,1,1,True,True,True,male 32yrs | STB
+CHNCXR_0334_1.png,1,1,True,True,True,male 44yrs | STB | NATB
+CHNCXR_0335_1.png,1,1,True,True,True,male 37yrs | STB | NATB
+CHNCXR_0336_1.png,1,1,True,True,True,male 30yrs | STB
+CHNCXR_0337_1.png,1,1,True,True,True,male 31yrs | STB
+CHNCXR_0338_1.png,1,1,True,True,True,male 49yrs | STB | ATB
+CHNCXR_0339_1.png,1,1,True,True,True,male 24yrs | STB | ATB
+CHNCXR_0340_1.png,1,1,True,True,True,male 34yrs | STB
+CHNCXR_0341_1.png,1,1,True,True,True,female 43yrs | STB
+CHNCXR_0342_1.png,1,1,True,True,True,male 27yrs | STB | NATB
+CHNCXR_0343_1.png,1,1,True,True,True,male 24yrs | STB | NATB
+CHNCXR_0344_1.png,1,1,True,True,True,female 29yrs | STB | ATB
+CHNCXR_0345_1.png,1,1,True,True,True,male 40yrs | STB
+CHNCXR_0346_1.png,1,1,True,True,True,female 26yrs | STB | tuberculosis pleuritis
+CHNCXR_0347_1.png,1,1,True,True,True,male 24yrs  	 | PTB in the left lower field
+CHNCXR_0348_1.png,1,1,True,True,True,"female 32yrs  	 | Bilateral secondary PTB , right pleural change after decortication"
+CHNCXR_0349_1.png,1,1,True,True,True,male 46yrs  	 | bilateral PTB ?right pleurisy with pleural effusion
+CHNCXR_0350_1.png,1,1,True,True,True,male 55yrs  	 | PTB in the left upper field
+CHNCXR_0351_1.png,1,1,True,True,True,male 39yrs  	 | secondary PTB in the right upper field
+CHNCXR_0352_1.png,1,1,True,True,True,male 17yrs  	 | secondary PTB in the bilateral upper field
+CHNCXR_0353_1.png,1,1,True,True,True,female 16yrs  	 | PTB in the left upper field
+CHNCXR_0354_1.png,1,1,True,True,True,male 27yrs  	 | PTB in the right upper field
+CHNCXR_0355_1.png,1,1,True,True,True,male 79yrs  	 | bilateral PTB
+CHNCXR_0356_1.png,1,1,True,True,True,female 78yrs  	 | bilateral PTB
+CHNCXR_0357_1.png,1,1,True,True,True,male 49yrs  	 | PTB in the left upper field
+CHNCXR_0358_1.png,1,1,True,True,True,female 39yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0359_1.png,1,1,True,True,True,"male 24yrs  	 | bilateral PTB,right upper field atelectasis"
+CHNCXR_0360_1.png,1,1,True,True,True,female 23yrs  	 | Bilateral secondary PTB
+CHNCXR_0361_1.png,1,1,True,True,True,"female 49yrs  	 | Bilateral secondary PTB, left encapsulated intrathoracic fluid"
+CHNCXR_0362_1.png,1,1,True,True,True,male 25yrs  	 | PTB in the right lower field
+CHNCXR_0363_1.png,1,1,True,True,True,female 38yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0364_1.png,1,1,True,True,True,male 24yrs  	 | Right PTB
+CHNCXR_0365_1.png,1,1,True,True,True,"female 38yrs  	 | Left PTB, left pleural thickening"
+CHNCXR_0366_1.png,1,1,True,True,True,male 33yrs  	 | PTB in the bilateral upper and middle field
+CHNCXR_0367_1.png,1,1,True,True,True,male 27yrs  	 | Old PTB in the right upper field
+CHNCXR_0368_1.png,1,1,True,True,True,"female 10yrs  	 | left PTB,pleural thickening"
+CHNCXR_0369_1.png,1,1,True,True,True,male 39yrs  	 | bilateral PTB
+CHNCXR_0370_1.png,1,1,True,True,True,"male 75yrs  	 | bilateral PTB, with left pleural effusion"
+CHNCXR_0371_1.png,1,1,True,True,True,male 40yrs  	 | PTB  in the right upper field
+CHNCXR_0372_1.png,1,1,True,True,True,male 42yrs  	 | Right PTB
+CHNCXR_0373_1.png,1,1,True,True,True,male 39yrs  	 | PTB  in the right upper field
+CHNCXR_0374_1.png,1,1,True,True,True,male 19yrs  	 | PTB  in the right upper field
+CHNCXR_0375_1.png,1,1,True,True,True,male 34yrs  	 | left PTB
+CHNCXR_0376_1.png,1,1,True,True,True,male 56yrs  	 | Right PTB
+CHNCXR_0377_1.png,1,1,True,True,True,male 25yrs  	 | PTB in the bilateral upper field
+CHNCXR_0378_1.png,1,1,True,True,True,male 78yrs  	 | Right PTB
+CHNCXR_0379_1.png,1,1,True,True,True,female 28yrs  	 | PTB in the bilateral upper field
+CHNCXR_0380_1.png,1,1,True,True,True,"female 55yrs  	 | left PTB,left pleurisy"
+CHNCXR_0381_1.png,1,1,True,True,True,"male 40yrs  	 | left PTB,left pleurisy"
+CHNCXR_0382_1.png,1,1,True,True,True,male 33yrs  	 | bilateral PTB
+CHNCXR_0383_1.png,1,1,True,True,True,male 58yrs  	 | bilateral PTB
+CHNCXR_0384_1.png,1,1,True,True,True,female 29yrs  	 | bilateral PTB
+CHNCXR_0385_1.png,1,1,True,True,True,male 60yrs  	 | Right PTB
+CHNCXR_0386_1.png,1,1,True,True,True,female 47yrs  	 | secondary PTB  in the bilateral upper field
+CHNCXR_0387_1.png,1,1,True,True,True,male 34yrs  	 | Right PTB
+CHNCXR_0388_1.png,1,1,True,True,True,male 18yrs  	 | bilateral PTB
+CHNCXR_0389_1.png,1,1,True,True,True,"male 63yrs  	 | Right pneumothorax, Right upper PTB, bilateral widespread infection"
+CHNCXR_0390_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB
+CHNCXR_0391_1.png,1,1,True,True,True,female 67yrs  	 | right upper pneumonia
+CHNCXR_0392_1.png,1,1,True,True,True,male 28yrs  	 | Right PTB
+CHNCXR_0393_1.png,1,1,True,True,True,"female 24yrs  	 | right upper PTB, pleural adhesions in  left lower field"
+CHNCXR_0394_1.png,1,1,True,True,True,male 45yrs  	 | right upper PTB
+CHNCXR_0395_1.png,1,1,True,True,True,"male 31yrs  	 | bilateral PTB, right pleurisy"
+CHNCXR_0396_1.png,1,1,True,True,True,male 35yrs  	 | right upper PTB
+CHNCXR_0397_1.png,1,1,True,True,True,female 32yrs  	 | PTB in the right upper field
+CHNCXR_0398_1.png,1,1,True,True,True,female 33yrs  	 | PTB in the right upper field
+CHNCXR_0399_1.png,1,1,True,True,True,male 81yrs  	 | PTB in the bilateral upper field
+CHNCXR_0400_1.png,1,1,True,True,True,female 28yrs  	 | right upper PTB with fibrous changes
+CHNCXR_0401_1.png,1,1,True,True,True,female 60yrs  	 | bilateral PTB
+CHNCXR_0402_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB with fibrous changes
+CHNCXR_0403_1.png,1,1,True,True,True,"male 32yrs  	 | bilateral PTB,  right upper lobe atelectasis"
+CHNCXR_0404_1.png,1,1,True,True,True,male 19yrs  	 | PTB in the bilateral upper field
+CHNCXR_0405_1.png,1,1,True,True,True,male 44yrs  	 | PTB in the left upper field
+CHNCXR_0406_1.png,1,1,True,True,True,female 29yrs  	 | bilateral PTB
+CHNCXR_0407_1.png,1,1,True,True,True,female 28yrs  	 | PTB in the right upper field
+CHNCXR_0408_1.png,1,1,True,True,True,"male 30yrs  	 | bilateral PTB, with cavity formation in right upper field"
+CHNCXR_0409_1.png,1,1,True,True,True,female 33yrs  	 | PTB in the bilateral upper field
+CHNCXR_0410_1.png,1,1,True,True,True,female 18yrs  	 | secondary PTB  in the bilateral upper fields
+CHNCXR_0411_1.png,1,1,True,True,True,male 38yrs  	 | left secondary PTB
+CHNCXR_0412_1.png,1,1,True,True,True,female 39yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0413_1.png,1,1,True,True,True,female 20yrs  	 | PTB in the right upper field
+CHNCXR_0414_1.png,1,1,True,True,True,male 31yrs  	 | Right PTB
+CHNCXR_0415_1.png,1,1,True,True,True,male 23yrs  	 | PTB in the right upper field
+CHNCXR_0416_1.png,1,1,True,True,True,female 61yrs  	 | PTB in the right upper field
+CHNCXR_0417_1.png,1,1,True,True,True,"male 67yrs  	 | PTB in the right upper field,COPD"
+CHNCXR_0418_1.png,1,1,True,True,True,male 32yrs  	 | PTB in the right upper field
+CHNCXR_0419_1.png,1,1,True,True,True,female 40yrs  	 | secondary PTB  in the bilateral upper field
+CHNCXR_0420_1.png,1,1,True,True,True,male 27yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0421_1.png,1,1,True,True,True,male 49yrs   	 | PTB in the right upper field
+CHNCXR_0422_1.png,1,1,True,True,True,male 28yrs  	 | PTB in the bilateral upper field
+CHNCXR_0423_1.png,1,1,True,True,True,male 50yrs  	 | Bilateral secondary PTB
+CHNCXR_0424_1.png,1,1,True,True,True,"female 35yrs  	 | right secondary PTB, right pleurisy with  pleural effusion"
+CHNCXR_0425_1.png,1,1,True,True,True,male 43yrs  	 | Bilateral secondary PTB
+CHNCXR_0426_1.png,1,1,True,True,True,male 33yrs  	 | PTB in the right upper field
+CHNCXR_0427_1.png,1,1,True,True,True,male 24yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0428_1.png,1,1,True,True,True,female 39yrs   	 | secondary PTB  in the right upper field
+CHNCXR_0429_1.png,1,1,True,True,True,female 27yrs  	 | secondary PTB  in the bilateral upper field
+CHNCXR_0430_1.png,1,1,True,True,True,female 48yrs  	 | PTB in the right upper field
+CHNCXR_0431_1.png,1,1,True,True,True,male 24yrs  	 | bilateral PTB
+CHNCXR_0432_1.png,1,1,True,True,True,male 30yrs  	 | Bilateral secondary PTB
+CHNCXR_0433_1.png,1,1,True,True,True,male 26yrs  	 | Right PTB
+CHNCXR_0434_1.png,1,1,True,True,True,male 28yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0435_1.png,1,1,True,True,True,"male 22yrs  	 | left upper PTB, left pleurisy"
+CHNCXR_0436_1.png,1,1,True,True,True,male 21yrs  	 | right upper PTB
+CHNCXR_0437_1.png,1,1,True,True,True,female 39yrs  	 | PTB in the left upper field
+CHNCXR_0438_1.png,1,1,True,True,True,male 31yrs  	 | left PTB
+CHNCXR_0439_1.png,1,1,True,True,True,male 34yrs  	 | bilateral PTB
+CHNCXR_0440_1.png,1,1,True,True,True,female 31yrs  	 | right upper PTB
+CHNCXR_0441_1.png,1,1,True,True,True,"male 63yrs  	 | right PTB,right pneumothorax"
+CHNCXR_0442_1.png,1,1,True,True,True,male 27yrs  	 | right upper PTB
+CHNCXR_0443_1.png,1,1,True,True,True,male  36yrs  	 | right upper PTB
+CHNCXR_0444_1.png,1,1,True,True,True,male 15yrs  	 | left PTB
+CHNCXR_0445_1.png,1,1,True,True,True,male 31yrs  	 | Right PTB
+CHNCXR_0446_1.png,1,1,True,True,True,female 26yrs  	 | Bilateral secondary PTB
+CHNCXR_0447_1.png,1,1,True,True,True,male 56yrs  	 | Bilateral secondary PTB
+CHNCXR_0448_1.png,1,1,True,True,True,female 78yrs  	 | Bilateral secondary PTB
+CHNCXR_0449_1.png,1,1,True,True,True,male 35yrs  	 | Bilateral secondary PTB
+CHNCXR_0450_1.png,1,1,True,True,True,female 22yrs  	 | right secondary PTB
+CHNCXR_0451_1.png,1,1,True,True,True,male 32yrs  	 | right secondary PTB
+CHNCXR_0452_1.png,1,1,True,True,True,female 21yrs  	 | Bilateral secondary PTB
+CHNCXR_0453_1.png,1,1,True,True,True,female 33yrs  	 | right secondary PTB
+CHNCXR_0454_1.png,1,1,True,True,True,male 44yrs   	 | right upper field PTB
+CHNCXR_0455_1.png,1,1,True,True,True,female 78yrs  	 | right secondary PTB  with bilateral  pleurisy
+CHNCXR_0456_1.png,1,1,True,True,True,female 28yrs  	 | bilateral PTB
+CHNCXR_0457_1.png,1,1,True,True,True,female 31yrs  	 | Bilateral secondary PTB
+CHNCXR_0458_1.png,1,1,True,True,True,male 36yrs  	 | Bilateral secondary PTB
+CHNCXR_0459_1.png,1,1,True,True,True,female 59yrs  	 | bilateral PTB
+CHNCXR_0460_1.png,1,1,True,True,True,male 41yrs  	 | left PTB
+CHNCXR_0461_1.png,1,1,True,True,True,male 34yrs  	 | right secondary PTB
+CHNCXR_0462_1.png,1,1,True,True,True,male 29yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0463_1.png,1,1,True,True,True,male 29yrs  	 | left secondary PTB
+CHNCXR_0464_1.png,1,1,True,True,True,male 45yrs  	 | Right PTB
+CHNCXR_0465_1.png,1,1,True,True,True,male 24yrs  	 | Bilateral secondary PTB
+CHNCXR_0466_1.png,1,1,True,True,True,female 32yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0467_1.png,1,1,True,True,True,female 39yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0468_1.png,1,1,True,True,True,female 29yrs  	 | Right PTB
+CHNCXR_0469_1.png,1,1,True,True,True,female 22yrs  	 | bilateral PTB
+CHNCXR_0470_1.png,1,1,True,True,True,female 38yrs  	 | right secondary PTB
+CHNCXR_0471_1.png,1,1,True,True,True,female 31yrs  	 | right secondary PTB
+CHNCXR_0472_1.png,1,1,True,True,True,male 40yrs  	 | Right PTB
+CHNCXR_0473_1.png,1,1,True,True,True,male 32yrs  	 | right secondary PTB
+CHNCXR_0474_1.png,1,1,True,True,True,male 48yrs  	 | bilateral PTB
+CHNCXR_0475_1.png,1,1,True,True,True,male 36yrs  	 | bilateral PTB
+CHNCXR_0476_1.png,1,1,True,True,True,"male 56yrs  	 | left secondary PTB,right pleural effusion"
+CHNCXR_0477_1.png,1,1,True,True,True,male 23yrs  	 | left PTB
+CHNCXR_0478_1.png,1,1,True,True,True,female 26yrs  	 | Right PTB
+CHNCXR_0479_1.png,1,1,True,True,True,male 56yrs  	 | PTB in the left upper field
+CHNCXR_0480_1.png,1,1,True,True,True,female 41yrs  	 | PTB in the bilateral upper field
+CHNCXR_0481_1.png,1,1,True,True,True,male 26yrs  	 | bilateral secondary PTB
+CHNCXR_0482_1.png,1,1,True,True,True,female 30yrs  	 | PTB in the right lower field
+CHNCXR_0483_1.png,1,1,True,True,True,"male 36yrs  	 | PTB in the bilateral upper fields, left pleurisy"
+CHNCXR_0484_1.png,1,1,True,True,True,female 29yrs  	 | right secondary PTB
+CHNCXR_0485_1.png,1,1,True,True,True,male 34yrs  	 | right secondary PTB
+CHNCXR_0486_1.png,1,1,True,True,True,male 22yrs  	 | PTB in the bilateral upper field
+CHNCXR_0487_1.png,1,1,True,True,True,male 72yrs  	 | Bilateral secondary PTB
+CHNCXR_0488_1.png,1,1,True,True,True,female 43yrs  	 | PTB in the left lower field
+CHNCXR_0489_1.png,1,1,True,True,True,male 22yrs  	 | PTB in the left upper field
+CHNCXR_0490_1.png,1,1,True,True,True,male 27yrs  	 | bilateral PTB
+CHNCXR_0491_1.png,1,1,True,True,True,male 42yrs  	 | bilateral PTB
+CHNCXR_0492_1.png,1,1,True,True,True,female 44yrs  	 | bilateral PTB
+CHNCXR_0493_1.png,1,1,True,True,True,male 40yrs  	 | bilateral PTB
+CHNCXR_0494_1.png,1,1,True,True,True,female 23yrs  	 | secondary PTB  in the right  middle field
+CHNCXR_0495_1.png,1,1,True,True,True,female 24yrs  	 | Left PTB
+CHNCXR_0496_1.png,1,1,True,True,True,male 72yrs  	 | bilateral PTB
+CHNCXR_0497_1.png,1,1,True,True,True,male 45yrs  	 | bilateral PTB
+CHNCXR_0498_1.png,1,1,True,True,True,male 33yrs  	 | PTB in the middle lower field
+CHNCXR_0499_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB
+CHNCXR_0500_1.png,1,1,True,True,True,female 22yrs  	 | bilateral PTB
+CHNCXR_0501_1.png,1,1,True,True,True,male 36yrs  	 | PTB in the left upper field
+CHNCXR_0502_1.png,1,1,True,True,True,male 48yrs  	 | bilateral PTB
+CHNCXR_0503_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB
+CHNCXR_0504_1.png,1,1,True,True,True,male 19yrs  	 | PTB in the left lower field
+CHNCXR_0505_1.png,1,1,True,True,True,male 26yrs  	 | Right PTB
+CHNCXR_0506_1.png,1,1,True,True,True,male 89yrs  	 | bilateral PTB
+CHNCXR_0507_1.png,1,1,True,True,True,female 32yrs  	 | bilateral PTB
+CHNCXR_0508_1.png,1,1,True,True,True,male 51yrs  	 | bilateral PTB
+CHNCXR_0509_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB
+CHNCXR_0510_1.png,1,1,True,True,True,female 25yrs  	 | Right PTB
+CHNCXR_0511_1.png,1,1,True,True,True,male 51yrs  	 | bilateral PTB
+CHNCXR_0512_1.png,1,1,True,True,True,male 65yrs  	 | Right PTB
+CHNCXR_0513_1.png,1,1,True,True,True,male 74yrs  	 | Right PTB
+CHNCXR_0514_1.png,1,1,True,True,True,female 28yrs  	 | bilateral PTB
+CHNCXR_0515_1.png,1,1,True,True,True,male 23yrs  	 | PTB in the left upper field
+CHNCXR_0516_1.png,1,1,True,True,True,male 37yrs  	 | PTB in the right upper field
+CHNCXR_0517_1.png,1,1,True,True,True,female 29yrs  	 | PTB in the right upper field
+CHNCXR_0518_1.png,1,1,True,True,True,male 39yrs  	 | PTB in the left upper field
+CHNCXR_0519_1.png,1,1,True,True,True,male 35yrs  	 | Right PTB
+CHNCXR_0520_1.png,1,1,True,True,True,male 24yrs  	 | PTB in the right upper field
+CHNCXR_0521_1.png,1,1,True,True,True,male 34yrs  	 | PTB in the right upper field
+CHNCXR_0522_1.png,1,1,True,True,True,male 33yrs  	 | bilateral PTB
+CHNCXR_0523_1.png,1,1,True,True,True,male 63yrs  	 | bilateral PTB
+CHNCXR_0524_1.png,1,1,True,True,True,male 63yrs  	 | Right PTB
+CHNCXR_0525_1.png,1,1,True,True,True,male 39yrs  	 | bilateral PTB
+CHNCXR_0526_1.png,1,1,True,True,True,male 63yrs  	 | bilateral PTB
+CHNCXR_0527_1.png,1,1,True,True,True,male 56yrs  	 | bilateral PTB
+CHNCXR_0528_1.png,1,1,True,True,True,female 25yrs  	 | Right PTB
+CHNCXR_0529_1.png,1,1,True,True,True,female 24yrs  	 | bilateral PTB
+CHNCXR_0530_1.png,1,1,True,True,True,male 55yrs  	 | PTB in the bilateral upper fields
+CHNCXR_0531_1.png,1,1,True,True,True,female 23yrs  	 | bilateral PTB
+CHNCXR_0532_1.png,1,1,True,True,True,female 45yrs  	 | PTB in the right upper field
+CHNCXR_0533_1.png,1,1,True,True,True,male 57yrs  	 | PTB in the left upper field
+CHNCXR_0534_1.png,1,1,True,True,True,male 21yrs  	 | Right PTB
+CHNCXR_0535_1.png,1,1,True,True,True,male 21yrs  	 | PTB in the right lower field
+CHNCXR_0536_1.png,1,1,True,True,True,female 28yrs  	 | PTB in the right upper field
+CHNCXR_0537_1.png,1,1,True,True,True,male 33yrs  	 | PTB in the bilateral upper fields
+CHNCXR_0538_1.png,1,1,True,True,True,male 38yrs  	 | PTB in the bilateral upper fields
+CHNCXR_0539_1.png,1,1,True,True,True,male 38yrs  	 | PTB in the left upper field
+CHNCXR_0540_1.png,1,1,True,True,True,male 30yrs  	 | PTB in the left upper field
+CHNCXR_0541_1.png,1,1,True,True,True,male 23yrs  	 | PTB in the right upper field
+CHNCXR_0542_1.png,1,1,True,True,True,female 24yrs  	 | PTB in the right upper field
+CHNCXR_0543_1.png,1,1,True,True,True,male 28yrs  	 | PTB in the left upper field
+CHNCXR_0544_1.png,1,1,True,True,True,male 59yrs  	 | PTB
+CHNCXR_0545_1.png,1,1,True,True,True,male 53yrs  	 | Right PTB
+CHNCXR_0546_1.png,1,1,True,True,True,female 36yrs  	 | bilateral PTB
+CHNCXR_0547_1.png,1,1,True,True,True,male 24yrs  	 | Right PTB
+CHNCXR_0548_1.png,1,1,True,True,True,male 46yrs  	 | PTB
+CHNCXR_0549_1.png,1,1,True,True,True,female 63yrs  	 | bilateral PTB
+CHNCXR_0550_1.png,1,1,True,True,True,male 82yrs  	 | Right PTB
+CHNCXR_0551_1.png,1,1,True,True,True,male 25yrs  	 | Right PTB
+CHNCXR_0552_1.png,1,1,True,True,True,male 45yrs  	 | PTB in the right upper field
+CHNCXR_0553_1.png,1,1,True,True,True,male 22yrs  	 | bilateral PTB
+CHNCXR_0554_1.png,1,1,True,True,True,male 23yrs  	 | Left PTB
+CHNCXR_0555_1.png,1,1,True,True,True,male 22yrs  	 | bilateral hematogenous disseminated PTB
+CHNCXR_0556_1.png,1,1,True,True,True,male 26yrs  	 | bilateral PTB
+CHNCXR_0557_1.png,1,1,True,True,True,male 27yrs  	 | Right PTB
+CHNCXR_0558_1.png,1,1,True,True,True,male 40yrs  	 | bilateral PTB
+CHNCXR_0559_1.png,1,1,True,True,True,male 40yrs  	 | Right PTB
+CHNCXR_0560_1.png,1,1,True,True,True,male 32yrs  	 | bilateral PTB
+CHNCXR_0561_1.png,1,1,True,True,True,male 51yrs  	 | bilateral PTB
+CHNCXR_0562_1.png,1,1,True,True,True,male 33yrs  	 | left PTB
+CHNCXR_0563_1.png,1,1,True,True,True,male 69yrs  	 | left PTB
+CHNCXR_0564_1.png,1,1,True,True,True,female 38yrs  	 | Right PTB
+CHNCXR_0565_1.png,1,1,True,True,True,male 79yrs  	 | bilateral PTB
+CHNCXR_0566_1.png,1,1,True,True,True,male 38yrs  	 | Right PTB
+CHNCXR_0567_1.png,1,1,True,True,True,male 61yrs  	 | bilateral PTB
+CHNCXR_0568_1.png,1,1,True,True,True,male 50yrs  	 | bilateral PTB
+CHNCXR_0569_1.png,1,1,True,True,True,male 51yrs  	 | bilateral PTB
+CHNCXR_0570_1.png,1,1,True,True,True,male 28yrs  	 | bilateral PTB
+CHNCXR_0571_1.png,1,1,True,True,True,female 36yrs  	 | Right PTB
+CHNCXR_0572_1.png,1,1,True,True,True,female 57yrs  	 | bilateral PTB
+CHNCXR_0573_1.png,1,1,True,True,True,male 32yrs  	 | bilateral PTB
+CHNCXR_0574_1.png,1,1,True,True,True,female 35yrs  	 | Right PTB
+CHNCXR_0575_1.png,1,1,True,True,True,female 33yrs  	 | bilateral PTB
+CHNCXR_0576_1.png,1,1,True,True,True,male 63yrs  	 | Right PTB
+CHNCXR_0577_1.png,1,1,True,True,True,female 74yrs  	 | Right PTB
+CHNCXR_0578_1.png,1,1,True,True,True,male 29yrs  	 | Right PTB
+CHNCXR_0579_1.png,1,1,True,True,True,male 24yrs  	 | left PTB
+CHNCXR_0580_1.png,1,1,True,True,True,male 25yrs  	 | left PTB
+CHNCXR_0581_1.png,1,1,True,True,True,male 25yrs  	 | left PTB
+CHNCXR_0582_1.png,1,1,True,True,True,male 44yrs  	 | bilateral PTB
+CHNCXR_0583_1.png,1,1,True,True,True,male 29yrs  	 | Right PTB
+CHNCXR_0584_1.png,1,1,True,True,True,female 22yrs  	 | left PTB
+CHNCXR_0585_1.png,1,1,True,True,True,male 18yrs  	 | left PTB
+CHNCXR_0586_1.png,1,1,True,True,True,female 38yrs   	 | bilateral PTB
+CHNCXR_0587_1.png,1,1,True,True,True,male 34yrs  	 | left PTB
+CHNCXR_0588_1.png,1,1,True,True,True,male 25yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0589_1.png,1,1,True,True,True,male 54yrs  	 | bilateral secondary PTB
+CHNCXR_0590_1.png,1,1,True,True,True,male 21yrs  	 | secondary PTB  in the bilateral upper fields
+CHNCXR_0591_1.png,1,1,True,True,True,male 46yrs  	 | right lower field PTB
+CHNCXR_0592_1.png,1,1,True,True,True,male 55yrs  	 | left PTB
+CHNCXR_0593_1.png,1,1,True,True,True,female 25yrs  	 | secondary PTB  in the left upper field
+CHNCXR_0594_1.png,1,1,True,True,True,female 29yrs  	 | bilateral PTB
+CHNCXR_0595_1.png,1,1,True,True,True,female 22yrs  	 | right lower field PTB
+CHNCXR_0596_1.png,1,1,True,True,True,male 46yrs  	 | bilateral PTB
+CHNCXR_0597_1.png,1,1,True,True,True,male 36yrs  	 | Right PTB
+CHNCXR_0598_1.png,1,1,True,True,True,"female 15yrs  	 | bilateral PTB, right pleurisy"
+CHNCXR_0599_1.png,1,1,True,True,True,male 39yrs  	 | Right PTB
+CHNCXR_0600_1.png,1,1,True,True,True,male 23yrs  	 | bilateral subacute hematogenous disseminated PTB
+CHNCXR_0601_1.png,1,1,True,True,True,female 58yrs  	 | left PTB
+CHNCXR_0602_1.png,1,1,True,True,True,male 42yrs  	 | bilateral PTB
+CHNCXR_0603_1.png,1,1,True,True,True,male 60yrs  	 | bilateral PTB
+CHNCXR_0604_1.png,1,1,True,True,True,male 35yrs  	 | Right PTB
+CHNCXR_0605_1.png,1,1,True,True,True,male 23yrs  	 | left PTB
+CHNCXR_0606_1.png,1,1,True,True,True,female 78yrs  	 | bilateral PTB
+CHNCXR_0607_1.png,1,1,True,True,True,male 17yrs  	 | left PTB
+CHNCXR_0608_1.png,1,1,True,True,True,male 37yrs  	 | left PTB
+CHNCXR_0609_1.png,1,1,True,True,True,male 26yrs  	 | PTB in the left upper field
+CHNCXR_0610_1.png,1,1,True,True,True,female 53yrs  	 | Bilateral secondary PTB
+CHNCXR_0611_1.png,1,1,True,True,True,female 20yrs  	 | PTB in the right upper field
+CHNCXR_0612_1.png,1,1,True,True,True,male 42yrs  	 | right secondary PTB
+CHNCXR_0613_1.png,1,1,True,True,True,female 30yrs  	 | Old PTB in the right upper field
+CHNCXR_0614_1.png,1,1,True,True,True,female 32yrs  	 | PTB in the right upper field
+CHNCXR_0615_1.png,1,1,True,True,True,female 40yrs  	 | PTB in the right upper field
+CHNCXR_0616_1.png,1,1,True,True,True,male 54yrs  	 | PTB in the right upper field
+CHNCXR_0617_1.png,1,1,True,True,True,male 49yrs  	 | Right PTB
+CHNCXR_0618_1.png,1,1,True,True,True,male 25yrs  	 | bilateral PTB
+CHNCXR_0619_1.png,1,1,True,True,True,female 38yrs  	 | PTB in the left upper field
+CHNCXR_0620_1.png,1,1,True,True,True,male 37yrs  	 | PTB in the right upper field
+CHNCXR_0621_1.png,1,1,True,True,True,male 42yrs  	 | Right PTB
+CHNCXR_0622_1.png,1,1,True,True,True,female 49yrs  	 | left PTB
+CHNCXR_0623_1.png,1,1,True,True,True,female 39yrs  	 | PTB in the right upper field
+CHNCXR_0624_1.png,1,1,True,True,True,female 76yrs  	 | PTB in the left upper field
+CHNCXR_0625_1.png,1,1,True,True,True,male 30yrs  	 | PTB in the right upper field
+CHNCXR_0626_1.png,1,1,True,True,True,male 49yrs  	 | PTB in the right lower field
+CHNCXR_0627_1.png,1,1,True,True,True,female 26yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0628_1.png,1,1,True,True,True,male 27yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0629_1.png,1,1,True,True,True,male 62yrs  	 | Bilateral secondary PTB
+CHNCXR_0630_1.png,1,1,True,True,True,male 2yrs  	 | secondary PTB  in the bilateral upper field
+CHNCXR_0631_1.png,1,1,True,True,True,female 28yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0632_1.png,1,1,True,True,True,female 30yrs  	 | PTB in the left upper field
+CHNCXR_0633_1.png,1,1,True,True,True,male35yrs  	 | PTB in the left upper field
+CHNCXR_0634_1.png,1,1,True,True,True,male 28yrs  	 | secondary PTB  in the bilateral upper field
+CHNCXR_0635_1.png,1,1,True,True,True,male 65yrs  	 | bilateral PTB
+CHNCXR_0636_1.png,1,1,True,True,True,male35yrs  	 | Bilateral secondary PTB
+CHNCXR_0637_1.png,1,1,True,True,True,male 44yrs  	 | bilateral PTB
+CHNCXR_0638_1.png,1,1,True,True,True,Female 36yrs  	 | Bilateral secondary PTB with left lower field pneumonia
+CHNCXR_0639_1.png,1,1,True,True,True,"Female, 28yrs  	 | bilateral acute hematogenous disseminated PTB"
+CHNCXR_0640_1.png,1,1,True,True,True,Male 38yrs  	 | Bilateral secondary PTB  with most lesions calcified
+CHNCXR_0641_1.png,1,1,True,True,True,"Female, 28yrs  	 | left secondary PTB"
+CHNCXR_0642_1.png,1,1,True,True,True,"Female, 43yrs  	 | secondary PTB  in the right upper field"
+CHNCXR_0643_1.png,1,1,True,True,True,"Male, 43yrs  	 | secondary PTB  in the bilateral upper field"
+CHNCXR_0644_1.png,1,1,True,True,True,"Female, 44yrs  	 | 1.secondary PTB  in the right upper field; 2.small tuberculoma; 3.right pleural thickening and adhesions"
+CHNCXR_0645_1.png,1,1,True,True,True,"Male , 27yrs  	 | Left secondary PTB in the upper and middle fields, mainly  fibrous  lesions"
+CHNCXR_0646_1.png,1,1,True,True,True,"Male, 31yrs  	 | secondary PTB  in the left lower field"
+CHNCXR_0647_1.png,1,1,True,True,True,"Male , 38yrs,  	 | secondary PTB in the bilateral upper and middle fields, mainly fibrous  lesions"
+CHNCXR_0648_1.png,1,1,True,True,True,"Male, 26yrs  	 | bilateral secondary PTB with multiple cavitations"
+CHNCXR_0649_1.png,1,1,True,True,True,"Male , 29yrs  	 | bilateral secondary PTB,mainly hyperplastic lesions"
+CHNCXR_0650_1.png,1,1,True,True,True,"Male , 50yrs  	 | secondary PTB  in the right upper field"
+CHNCXR_0651_1.png,1,1,True,True,True,"Female, 49yrs  	 | Right secondary PTB,mainly hyperplastic lesions"
+CHNCXR_0652_1.png,1,1,True,True,True,"Male, 51yrs  	 | secondary PTB  in thel left upper field"
+CHNCXR_0653_1.png,1,1,True,True,True,"Male, 69yrs  	 | bilateral secondary PTB  with pleural thickening"
+CHNCXR_0654_1.png,1,1,True,True,True,"Male , 28yrs  	 | Right secondary PTB"
+CHNCXR_0655_1.png,1,1,True,True,True,"Male 33yrs  	 | secondary PTB in the right upper field,mainly hyperplastic lesions"
+CHNCXR_0656_1.png,1,1,True,True,True,Female 35yrs  	 | secondary PTB  in the right upper field
+CHNCXR_0657_1.png,1,1,True,True,True,"Male , 31yrs  	 | Right secondary PTB in the upper and middle fields"
+CHNCXR_0658_1.png,1,1,True,True,True,Male 41yrs  	 | bilateral secondary PTB  with right pneumothorax
+CHNCXR_0659_1.png,1,1,True,True,True,"Male , 33yrs  	 | secondary PTB  in the left upper field"
+CHNCXR_0660_1.png,1,1,True,True,True,"Male , 50yrs  	 | 1.bilateral secondary PTB  with right upper atelectasis;2.right pleural adhesions;3.left compensatory emphysema"
+CHNCXR_0661_1.png,1,1,True,True,True,"Male, 26yrs  	 | bilateral secondary PTB  with right pleural thickening"
+CHNCXR_0662_1.png,1,1,True,True,True,"Male , 32yrs  	 | secondary PTB  in the right upper field"

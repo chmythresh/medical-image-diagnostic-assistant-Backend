@@ -1,0 +1,29 @@
+[
+  {
+    "model": "Original CNN",
+    "test_images": 100,
+    "accuracy": 0.84,
+    "precision_macro": 0.8532451426209178,
+    "recall_macro": 0.841936774709884,
+    "f1_macro": 0.8389694041867954,
+    "confusion_matrix": "[[46, 3], [13, 38]]"
+  },
+  {
+    "model": "Frozen ResNet18",
+    "test_images": 100,
+    "accuracy": 0.7,
+    "precision_macro": 0.7164835164835165,
+    "recall_macro": 0.6970788315326131,
+    "f1_macro": 0.6921182266009853,
+    "confusion_matrix": "[[27, 22], [8, 43]]"
+  },
+  {
+    "model": "Fine-tuned ResNet18",
+    "test_images": 100,
+    "accuracy": 0.85,
+    "precision_macro": 0.8666666666666667,
+    "recall_macro": 0.852140856342537,
+    "f1_macro": 0.8487750781328763,
+    "confusion_matrix": "[[47, 2], [13, 38]]"
+  }
+]
