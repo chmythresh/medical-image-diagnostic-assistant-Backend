@@ -10,6 +10,7 @@ Experimental chest X-ray classification backend using Python, PyTorch, FastAPI, 
 4. Ensure `backend/artifacts/best_resnet18_finetuned.pt` exists.
 5. Start the API: `python -m uvicorn backend.api.main:app --reload`
 6. Open http://127.0.0.1:8000/docs
+7. Dataset Used: Shenzhen chest X-ray dataset.
 
 ## Endpoints
 
